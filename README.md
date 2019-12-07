@@ -2,7 +2,7 @@
 Website Project
 
 This is my Final integrated project.
-      Thank you!
+     Thank you!
 
-  Dev: Kirlilar_E
-  Section: B
+Dev: Kirlilar_E,
+Section: B
